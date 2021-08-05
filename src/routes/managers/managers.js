@@ -10,7 +10,7 @@ export const managers = [
   {
     "roster": 9, // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Charan ",
-    "tookOver": null // (optional) used if a manager took over a team, delete this line or change to null otherwise
+    "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Fort Myers", // (optional)
     "bio": "Lorem ipsum...",
     "photo": "/managers/question.jpg", // square ratio recommended (no larger than 500x500)
@@ -33,7 +33,7 @@ export const managers = [
    {
     "roster": 1, // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Charan ",
-    "tookOver": null // (optional) used if a manager took over a team, delete this line or change to null otherwise
+    "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Fort Myers", // (optional)
     "bio": "Lorem ipsum...",
     "photo": "/managers/question.jpg", // square ratio recommended (no larger than 500x500)
@@ -56,7 +56,7 @@ export const managers = [
    {
     "roster": 2, // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Charan ",
-    "tookOver": null // (optional) used if a manager took over a team, delete this line or change to null otherwise
+    "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Fort Myers", // (optional)
     "bio": "Lorem ipsum...",
     "photo": "/managers/question.jpg", // square ratio recommended (no larger than 500x500)
@@ -79,7 +79,7 @@ export const managers = [
    {
     "roster": 3, // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Charan ",
-    "tookOver": null // (optional) used if a manager took over a team, delete this line or change to null otherwise
+    "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Fort Myers", // (optional)
     "bio": "Lorem ipsum...",
     "photo": "/managers/question.jpg", // square ratio recommended (no larger than 500x500)
@@ -102,7 +102,7 @@ export const managers = [
    {
     "roster": 4, // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Charan ",
-    "tookOver": null // (optional) used if a manager took over a team, delete this line or change to null otherwise
+    "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Fort Myers", // (optional)
     "bio": "Lorem ipsum...",
     "photo": "/managers/question.jpg", // square ratio recommended (no larger than 500x500)
@@ -125,7 +125,7 @@ export const managers = [
    {
     "roster": 5, // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Charan ",
-    "tookOver": null // (optional) used if a manager took over a team, delete this line or change to null otherwise
+    "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Fort Myers", // (optional)
     "bio": "Lorem ipsum...",
     "photo": "/managers/question.jpg", // square ratio recommended (no larger than 500x500)
@@ -148,7 +148,7 @@ export const managers = [
    {
     "roster": 6, // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Charan ",
-    "tookOver": null // (optional) used if a manager took over a team, delete this line or change to null otherwise
+    "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Fort Myers", // (optional)
     "bio": "Lorem ipsum...",
     "photo": "/managers/question.jpg", // square ratio recommended (no larger than 500x500)
@@ -171,7 +171,7 @@ export const managers = [
      {
     "roster": 7, // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Charan ",
-    "tookOver": null // (optional) used if a manager took over a team, delete this line or change to null otherwise
+    "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Fort Myers", // (optional)
     "bio": "Lorem ipsum...",
     "photo": "/managers/question.jpg", // square ratio recommended (no larger than 500x500)
@@ -194,7 +194,7 @@ export const managers = [
      {
     "roster": 8, // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Charan ",
-    "tookOver": null // (optional) used if a manager took over a team, delete this line or change to null otherwise
+    "tookOver": null,// (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Fort Myers", // (optional)
     "bio": "Lorem ipsum...",
     "photo": "/managers/question.jpg", // square ratio recommended (no larger than 500x500)
@@ -217,7 +217,7 @@ export const managers = [
      {
     "roster": 10, // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Charan ",
-    "tookOver": null // (optional) used if a manager took over a team, delete this line or change to null otherwise
+    "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Fort Myers", // (optional)
     "bio": "Lorem ipsum...",
     "photo": "/managers/question.jpg", // square ratio recommended (no larger than 500x500)
@@ -239,7 +239,7 @@ export const managers = [
      {
     "roster": 11, // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Charan ",
-    "tookOver": null // (optional) used if a manager took over a team, delete this line or change to null otherwise
+    "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Fort Myers", // (optional)
     "bio": "Lorem ipsum...",
     "photo": "/managers/question.jpg", // square ratio recommended (no larger than 500x500)
@@ -261,7 +261,7 @@ export const managers = [
      {
     "roster": 12, // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Charan ",
-    "tookOver": null // (optional) used if a manager took over a team, delete this line or change to null otherwise
+    "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Fort Myers", // (optional)
     "bio": "Lorem ipsum...",
     "photo": "/managers/question.jpg", // square ratio recommended (no larger than 500x500)
