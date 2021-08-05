@@ -26,10 +26,10 @@
 	}
 
 	#logo {
-		width: 1280px;
+		width: 960px;
 		display: block;
 		margin: 0 auto;
-		padding: 160px;
+		padding: 120px;
 	}
 
     .large {
