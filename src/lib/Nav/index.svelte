@@ -52,7 +52,7 @@
 </style>
 
 <nav>
-	<a href="/"><img id="logo" alt="league logo" src="https://i.imgur.com/Oq6XYFb.png" /></a>
+	<a href="/"><img id="logo" alt="league logo" src="https://i.imgur.com/8Zcjw6O.png" /></a>
 
 	<div class="large">
 		<NavLarge {tabs} bind:active={active} />
