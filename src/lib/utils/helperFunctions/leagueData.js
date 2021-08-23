@@ -1,7 +1,7 @@
 import { get } from 'svelte/store';
 import {leagueData} from '$lib/stores';
 
-export const leagueID = "721768719713398784"; // your league ID
+export const leagueID = "733048231080099840"; // your league ID
 export const leagueName = "Telugu Tejalu"; // your league name
 export const dues = 10; // (optional) used in template constitution page
 export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
